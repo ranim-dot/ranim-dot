@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Ranim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=59F7A7&random=false&width=435&lines=Iam+a+passionate+AI%2FML+Software+Developer;A+quick+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=59F7A7&random=false&width=435&lines=Iam+a+passionate+AI%2FML+Software+Developer;A+quick+Learner" alt="Typing SVG" /></a>
 <br>
 <br>
 
@@ -9,7 +9,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills</b>    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,flask,git,github,html,css,js,nodejs,express,react,tailwind,mongodb,sqlite,java&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,git,github,js,nodejs,express,react,tailwind,mongodb,java&perline=14" />
   </a>
 </p>
 
