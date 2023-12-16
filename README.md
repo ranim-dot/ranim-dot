@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranim</h1>
 <h3 align="center">A passionate AI/ML Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranim-dot&label=Profile%20views&color=0eb4a1&style=plastic" alt="ranim-dot" /> </p>
+
 - 🌱 I’m currently learning **Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranim-dot?tab=repositories](https://github.com/ranim-dot?tab=repositories)
@@ -10,6 +12,8 @@
 - 📫 How to reach me **ranimmehri@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ranim-dot/ranim-dot/blob/main/Ranim-Mehri-n.pdf](https://github.com/ranim-dot/ranim-dot/blob/main/Ranim-Mehri-n.pdf)
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranim-dot&show_icons=true&theme=gruvbox&locale=en" alt="ranim-dot" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranim-dot&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ranim-dot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranim-dot&show_icons=true&theme=gruvbox&locale=en" alt="ranim-dot" /></p>
+
