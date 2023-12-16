@@ -28,6 +28,9 @@
 </a>
 </div>
 
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranim-dot&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ranim-dot" /></p>
+</div>
 
 <br>
 <br>
